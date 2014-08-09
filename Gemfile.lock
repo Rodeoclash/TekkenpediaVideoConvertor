@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/samuelrichardson/Sites/mediawiki-ruby-api
+GIT
+  remote: https://github.com/Rodeoclash/mediawiki-ruby-api.git
+  revision: 699dc3b6f437c07cb388d8a5173bc2b6fa8c09e3
   specs:
     mediawiki_api (0.1.4)
       faraday (~> 0.9, >= 0.9.0)
